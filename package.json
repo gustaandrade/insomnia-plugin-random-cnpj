@@ -1,0 +1,24 @@
+{
+  "name": "insomnia-plugin-random-cnpj",
+  "description": "A plugin for Insomnia client that generates random and valid CNPJ values, punctuated or not.",
+  "version": "1.0.0",
+  "main": "randomCNPJ.js",
+  "license": "MIT",
+  "author": "Gustavo Andrade",
+  "insomnia": {
+    "name": "randomCNPJ",
+    "description": "A plugin for Insomnia client that generates random and valid CNPJ values, punctuated or not."
+  },
+  "repository": "https://github.com/gustaandrade/insomnia-plugin-random-cnpj",
+  "dependencies": [],
+  "devDependencies": [],
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "plugins",
+    "random",
+    "cnpj",
+    "valid",
+    "generator"
+  ]
+}
